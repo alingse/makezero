@@ -4,7 +4,7 @@ import (
 	"flag"
 	"go/ast"
 
-	"github.com/ashanbrown/makezero/makezero"
+	"github.com/alingse/makezero/makezero"
 	"golang.org/x/tools/go/analysis"
 )
 
