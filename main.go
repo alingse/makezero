@@ -6,9 +6,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/alingse/makezero/makezero"
 	"golang.org/x/tools/go/packages"
-
-	"github.com/ashanbrown/makezero/makezero"
 )
 
 func main() {
